@@ -1,18 +1,13 @@
-# Brandon Murry Resume
+# Kosuke Kusama Resume
 
 ## Education History
-University of southern California 2004-2008
-- Bachelor of Arts in Cinema
-- President of SIGGRAPH club
-- Vice President of Zeta Beta Tau Fraternity
-- 
+- McIntosh High Schook, Peachtree City GA 2022-2023
+- Tukuba Shuei High school 2019-2022
+
 ## Employment History
- McIntosh High School - Animation, Computer Science, and Math Teacher
- - Animation Teacher 2019-Present
- - Computer Science Teacher 2022-Present
- -  Math Teacher 2020-2022
+- None
 
 ## Hobbies
-- Playing with my children
-- Codeing and Stuff
-- Fighting bears  
+- Waching animes
+- Playing gmae
+- Reading mangas
